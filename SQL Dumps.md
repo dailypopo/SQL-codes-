@@ -42,3 +42,8 @@ Insert Into EmployeeSalary VALUES
 (1007, 'Supplier Relations', 41000),
 (1008, 'Salesman', 48000),
 (1009, 'Accountant', 42000)
+
+
+--selecting values using "from":
+select * from 
+[SQL Tutorial].dbo.EmployeeDemographics
